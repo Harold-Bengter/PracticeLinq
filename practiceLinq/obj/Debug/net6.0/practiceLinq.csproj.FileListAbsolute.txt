@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\bin\Debug\net6.0\practiceLinq.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\bin\Debug\net6.0\practiceLinq.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\bin\Debug\net6.0\practiceLinq.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\bin\Debug\net6.0\practiceLinq.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\bin\Debug\net6.0\practiceLinq.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\refint\practiceLinq.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\practiceLinq.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\practiceLinq\practiceLinq\obj\Debug\net6.0\ref\practiceLinq.dll
